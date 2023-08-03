@@ -19,8 +19,6 @@ export default function FirstPost() {
                 console.log(`script loaded correctly, window.FB has been populated`)
                 }
             />
-            <h1>Hello</h1>
-            <Link href={"/"}>Home</Link>
         </Layout>
     )
 }
